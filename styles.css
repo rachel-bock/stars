@@ -1,0 +1,16 @@
+*, *::before, *::after {
+    margin: 0;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: lightskyblue;
+    width: 80vw;
+    height: 100vw;
+}
+
+.main-top {
+    width: 75vw;
+    height: 25vw;
+    border: 1px solid black;
+}
