@@ -1,6 +1,7 @@
 *, *::before, *::after {
     margin: 0;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
 }
 
 body {
@@ -13,4 +14,5 @@ body {
     width: 75vw;
     height: 25vw;
     border: 1px solid black;
+
 }
